@@ -1,7 +1,7 @@
-<h1 align="center">Howdy, I'm Manny Padilla</h1> <h3 align="center">Developer | Data Scientist | Real Estate Agent | From Dallas, TX</h3> <p align="center"> Passionate about coding, data science, and creating innovative solutions in the auto and real estate industries. Currently focused on leveraging AI, cloud technologies, and web development frameworks to solve inefficiencies in everyday business processes. </p>
+<h1 align="center">Howdy, I'm Manny Padilla</h1> <h3 align="center">Student at SMU | Developer | Commercial Real Estate Agent | From Dallas, TX</h3> <p align="center"> Passionate about coding, data science, and creating innovative solutions in the various industries. Currently focused on leveraging AI, cloud technologies, and tech as a whole to solve inefficiencies in everyday business processes. </p>
 🌱 Currently learning: AWS, Django, AI applications in real estate, and advanced C++ concepts.
 
-🚀 Current Projects: Building a Library Management System in C++ and a Real Estate Calculator App using JavaScript.
+🚀 Current Projects: Data Center Simulator, CRE Calculator, and small tools for my personal use. 
 
 📫 How to reach me: Mannygpadilla@gmail.com
 
